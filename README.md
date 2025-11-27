@@ -104,7 +104,7 @@ ln -s ~/dev/dotfiles/ghostty ~/.config/ghostty
 
 ### 🌲 LazyGit
 
-| Key         | Action           |
+| Key         | Action           |                 |
 | :---------- | :--------------- | :-------------- |
 | `<Space>gg` | Open **Lazygit** | Floating window |
 
