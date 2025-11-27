@@ -102,10 +102,10 @@ ln -s ~/dev/dotfiles/ghostty ~/.config/ghostty
 | `Alt + k`  | Move Line Up        |
 | `Ctrl + \` | Toggle **Terminal** |
 
-### 🌲 Git
+### 🌲 LazyGit
 
 | Key         | Action           |
-| :---------- | :--------------- | --------------- |
+| :---------- | :--------------- | :-------------- |
 | `<Space>gg` | Open **Lazygit** | Floating window |
 
 ---
