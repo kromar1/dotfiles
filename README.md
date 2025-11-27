@@ -3,7 +3,7 @@
 My personal configuration for a high-performance Web Development environment on macOS.
 Focused on **Neovim**, **Ghostty**, and the **Nord** aesthetic.
 
-![Nord Theme Preview] (assets/preview.png)
+![Nord Theme Preview](assets/preview.png)
 
 ## 🛠 The Stack
 
