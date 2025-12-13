@@ -1,0 +1,25 @@
+gui:
+  # Use the Nord Palette
+  theme:
+    activeBorderColor:
+      - "#88C0D0"    # Nord Frost (Cyan) - Replaces the bright green
+      - bold
+    inactiveBorderColor:
+      - "#4C566A"    # Nord Polar Night (Grey)
+    optionsTextColor:
+      - "#81A1C1"    # Nord Blue
+    selectedLineBgColor:
+      - "#3B4252"    # Nord Dark Grey (Highlight background)
+    selectedRangeBgColor:
+      - "#3B4252"
+    cherryPickedCommitBgColor:
+      - "#8FBCBB"    # Nord Teal
+    cherryPickedCommitFgColor:
+      - "#2E3440"
+    unstagedChangesColor:
+      - "#BF616A"    # Nord Red
+    defaultFgColor:
+      - "#D8DEE9"    # Nord White
+    searchingActiveBorderColor:
+      - "#EBCB8B"    # Nord Yellow
+

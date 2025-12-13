@@ -1,0 +1,14 @@
+# macOS System Files
+.DS_Store
+
+# Environment variable substitution file 
+.env
+*.env
+
+# Elm Dependencies & Build Artifacts (Crucial!)
+elm-stuff/
+repl-temp-*
+
+# Node Modules (If you use npm for tools like elm-format)
+node_modules/
+

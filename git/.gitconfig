@@ -1,0 +1,23 @@
+[core]
+    pager = delta --navigate
+    excludesfile = ~/.gitignore_global
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    navigate = true      # use n and N to move between diff sections
+    side-by-side = true  # clearer view for complex diffs
+    line-numbers = true  # show absolute line numbers
+    syntax-theme = Nord  # matches your Neovim/Ghostty theme
+    
+    # Nord-compatible colors for the diff background
+    plus-style = "syntax #2E3440"
+    minus-style = "syntax #2E3440"
+
+[merge]
+    conflictstyle = diff3
+
+[diff]
+    colorMoved = default
+

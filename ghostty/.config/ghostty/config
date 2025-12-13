@@ -1,0 +1,14 @@
+theme = Nord
+font-family = VictorMono NFM Light
+font-size = 16
+window-height = 60
+window-width = 122
+window-position-x = 20
+window-padding-x = 30
+window-padding-y = 5
+window-padding-balance = true
+cursor-style = block
+cursor-style-blink = true
+cursor-color = #88C0D0
+macos-titlebar-style = transparent
+macos-option-as-alt = true
