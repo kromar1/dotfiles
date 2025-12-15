@@ -1,3 +1,6 @@
+[user]
+    name = Mariusz Krol
+    email = mariusz.krol@mac.com
 [core]
     pager = delta --navigate
     excludesfile = ~/.gitignore_global
